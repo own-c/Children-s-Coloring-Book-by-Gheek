@@ -1,0 +1,5 @@
+{
+  "name": "AI Coloring Book & Chat",
+  "description": "A children's coloring book generator powered by AI. Users can specify a theme and a child's name to create a personalized, downloadable PDF coloring book. It also features an interactive chat bot for kids to ask questions.",
+  "requestFramePermissions": []
+}
